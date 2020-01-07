@@ -1,0 +1,9 @@
+C:\Users\admin\source\Repos\System.ITShare\System.ITShare\bin\Debug\netstandard2.0\System.ITShare.deps.json
+C:\Users\admin\source\Repos\System.ITShare\System.ITShare\bin\Debug\netstandard2.0\System.ITShare.dll
+C:\Users\admin\source\Repos\System.ITShare\System.ITShare\bin\Debug\netstandard2.0\System.ITShare.pdb
+C:\Users\admin\source\Repos\System.ITShare\System.ITShare\obj\Debug\netstandard2.0\System.ITShare.csprojAssemblyReference.cache
+C:\Users\admin\source\Repos\System.ITShare\System.ITShare\obj\Debug\netstandard2.0\System.ITShare.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\Repos\System.ITShare\System.ITShare\obj\Debug\netstandard2.0\System.ITShare.AssemblyInfoInputs.cache
+C:\Users\admin\source\Repos\System.ITShare\System.ITShare\obj\Debug\netstandard2.0\System.ITShare.AssemblyInfo.cs
+C:\Users\admin\source\Repos\System.ITShare\System.ITShare\obj\Debug\netstandard2.0\System.ITShare.dll
+C:\Users\admin\source\Repos\System.ITShare\System.ITShare\obj\Debug\netstandard2.0\System.ITShare.pdb
